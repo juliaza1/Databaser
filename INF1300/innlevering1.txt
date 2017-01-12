@@ -1,0 +1,19 @@
+En bok har én tittel.
+En bok har et utgivelsesår.
+En bok har 0 til flere forfattere.
+En forfatter har en forfatterid.
+En forfatter har et etternavn.
+En forfatter kan ha et fornavn.
+En forfatter har skrevet minst én bok.
+
+
+FAKTATYPER:
+
+BEGREP							 REPRESENTASJON
+bok	--------har/til------------- tittel
+bok	--------har/til------------- utgivelsesår
+bok --------har/av-------------- forfatter
+forfatter --med/på-------------- forfatterid
+forfatter --med/til------------- etternavn
+forfatter --med/til------------- fornavn
+forfatter --skrevet/skrevet av-- bok
